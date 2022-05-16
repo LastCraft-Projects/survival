@@ -1,0 +1,5 @@
+database: 'skyblock'
+
+limitDefault: 10
+limits: #лимиты кол-во айтемов
+- 'gold:1'

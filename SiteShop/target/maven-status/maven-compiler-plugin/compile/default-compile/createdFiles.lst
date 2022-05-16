@@ -1,0 +1,9 @@
+net/lastcraft/siteshop/SiteShop.class
+net/lastcraft/siteshop/item/PlayerSSItem.class
+net/lastcraft/siteshop/item/SSItemManager.class
+net/lastcraft/siteshop/commands/GiveCommand.class
+net/lastcraft/siteshop/guis/BuySGui.class
+net/lastcraft/siteshop/ItemsLoader.class
+net/lastcraft/siteshop/commands/SiteShopCommand.class
+net/lastcraft/siteshop/guis/SSGui.class
+net/lastcraft/siteshop/item/SSItem.class

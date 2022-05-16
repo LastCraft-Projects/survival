@@ -1,0 +1,5 @@
+name: Market
+author: LastCraft
+main: net.lastcraft.market.Market
+version: 1.0
+depend: [DartaAPI]

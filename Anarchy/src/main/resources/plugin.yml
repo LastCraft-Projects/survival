@@ -1,0 +1,5 @@
+name: Anarchy
+author: LastCraft
+version: 1.0
+main: net.lastcraft.anarchy.Anarchy
+depend: [Market, DartaAPI, Alternate]

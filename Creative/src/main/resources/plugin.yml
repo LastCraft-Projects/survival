@@ -1,0 +1,5 @@
+name: CreativeAddon
+version: 1.0
+author: LastCraft
+main: net.lastcraft.creative.CreativeAddon
+depend: [DartaAPI]

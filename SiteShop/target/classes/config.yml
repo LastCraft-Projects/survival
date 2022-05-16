@@ -1,0 +1,18 @@
+dataBase: 'skyblock'
+
+Items:
+  1: #item ID
+    price: 10 #цена в золоте
+    itemStacks:
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHORUS_FRUIT
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYOZgYIfyGZiSi5gZWJ3zc/KLgDIsDMhSxcU4pZLyUaSYGVicEotTgWx+BgYAYd9K44IAAAA=
+          blockMaterial: SHIELD

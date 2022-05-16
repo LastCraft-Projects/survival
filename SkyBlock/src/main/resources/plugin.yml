@@ -1,0 +1,5 @@
+name: SkyBlock
+version: 1.1
+author: LastCraft
+main: net.lastcraft.skyblock.SkyBlock
+depend: [DartaAPI, WorldEdit, Market, Alternate]

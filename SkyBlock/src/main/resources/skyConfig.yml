@@ -1,0 +1,16 @@
+mineLocations:
+- world;1;1;1
+defaultDelay: 20
+blocksChance:
+  kek:
+    material: GRASS
+    delay: 25
+    percent: 40
+  kek2:
+    material: STONE
+    delay: 25
+    percent: 60
+
+spawnMobLimitDefault: 30
+spawnMobLimit:
+- gold:35

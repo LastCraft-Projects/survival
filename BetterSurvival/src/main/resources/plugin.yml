@@ -1,0 +1,5 @@
+name: BetterSurvival
+main: net.lastcraft.bettersurvival.BetterSurvival
+version: 1.0
+author: LastCraft
+depend: [DartaAPI, Alternate]

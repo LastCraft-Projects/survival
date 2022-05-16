@@ -1,0 +1,6 @@
+/target/
+*.iml
+src/test/
+/.idea/
+*.txt
+/output/

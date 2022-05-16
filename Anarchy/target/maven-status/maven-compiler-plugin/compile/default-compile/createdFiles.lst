@@ -1,0 +1,15 @@
+net/lastcraft/anarchy/listener/ScavengerListener.class
+net/lastcraft/anarchy/gui/AnarchyMenuGui.class
+net/lastcraft/anarchy/command/AnarchystartCommand.class
+net/lastcraft/anarchy/Anarchy.class
+net/lastcraft/anarchy/top/MoneyTop.class
+net/lastcraft/anarchy/listener/Scavenger.class
+net/lastcraft/anarchy/AnarchyConfig.class
+net/lastcraft/anarchy/stats/StatsLoader.class
+net/lastcraft/anarchy/top/KillsTop.class
+net/lastcraft/anarchy/stats/StatsPlayer.class
+net/lastcraft/anarchy/command/MoneyCommand.class
+net/lastcraft/anarchy/listener/PlayerListener.class
+net/lastcraft/anarchy/top/TopManager.class
+net/lastcraft/anarchy/gui/AnarchyAbstractGui.class
+net/lastcraft/anarchy/AnarchyBoard.class

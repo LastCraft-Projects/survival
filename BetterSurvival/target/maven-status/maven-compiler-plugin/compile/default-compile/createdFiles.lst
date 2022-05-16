@@ -1,0 +1,6 @@
+net/lastcraft/bettersurvival/BetterSurvival.class
+net/lastcraft/bettersurvival/combat/CombatData.class
+net/lastcraft/bettersurvival/CommandCompass.class
+net/lastcraft/bettersurvival/GameTimer.class
+net/lastcraft/bettersurvival/combat/CombatData$1.class
+net/lastcraft/bettersurvival/combat/CombatManager.class

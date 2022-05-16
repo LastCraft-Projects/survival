@@ -1,0 +1,6 @@
+name: Alternate
+main: net.lastcraft.alternate.Alternate
+version: 1.0
+author: LastCraft
+depend: [DartaAPI]
+softdepend: [Multiverse-Core]

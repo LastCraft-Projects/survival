@@ -1,0 +1,75 @@
+dataBase: 'survival'
+prefix: '§6Kek §8| §f'
+
+Restart: '07:00' #рестарт по времени дедика
+
+#минимальный лвл для использования или игнора
+flyCommand: 4
+clearCommand: 1
+extCommand: 1
+healCommand: 1
+godCommand: 1
+nearCommand: 1
+feedCommand: 1
+workBenchCommand: 1
+suicideCommand: 1
+anvilCommand: 1
+repairCommand: 7
+gamemodeCommand: 4
+tpCommand: 1
+topCommand: 1
+backCommand: 1
+jumpCommand: 1
+tpPosCommand: 1
+hatCommand: 1
+headCommand: 1
+ptimeCommand: 1
+speedCommand: 1
+enderChestCommand: 1
+
+trade: false #система трейдов
+portalCreate: false #создание порталов разрешено или нет
+
+ignoreCooldownExt: 1
+ignoreCooldownHeal: 1
+ignoreCooldownFeed: 1
+ignoreWaitTeleport: 1
+
+repairCooldown: 60
+
+globalLocalChat: false
+warpSystem: true
+homeSystem: true
+callSystem: true
+kitSystem: true
+bedHomeSystem: false #сетхоум ставится там, где будет кровать
+
+#лимиты на сетхоумы
+setHomeDefault: 3
+setHomeLimit:
+- 'gold:1'
+
+spawnTp: false
+spawnFlyOff: false #при входе игрока офать флай ему
+spawn: lobby;17.5;48.0;0.5;0.0;-90.0
+
+#в секундах скок ждать
+waitTeleport: 3
+
+#Material:subID amount Enchantment:лвл_энчанта Color:RGB
+Kits:
+  kek: #имя кита + будет kek_lore для лора(из локализации)
+    start: true #при первом заходе его давать и он не покажется в списке наборов
+    cooldown: 100 #в секундах
+    mainGroup: 1 #если есть эта строчка, то доступ к этому киту только опр левелу
+    group: 1 #минимальная группа(номер группы доступно для этой группы и выше)
+    icon: 'STONE 1' #иконка
+    items:
+    - 'STONE:1 1 DAMAGE_ALL:1 COLOR:255,255,255'
+
+voidSpawn: #тпхать на спавн, если выпал из мира (мир:группа игрока)
+  lobby: 0
+
+setWarpDefault: 3
+setWarpLimit: #лимиты на создание варпов
+- 'gold:1'
